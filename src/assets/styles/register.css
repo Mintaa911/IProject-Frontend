@@ -1,0 +1,21 @@
+.student #location{
+  display: none;
+}
+
+.teacher #batch, .teacher #stud_id, .teacher #location{
+    display: none;
+
+}
+
+.admin #batch, .admin #stud_id, .admin #institution_id, .admin #location{
+    display: none;
+
+}
+.company #batch, .company #stud_id, .company #institution_id{
+    display: none;
+
+}
+
+.role:hover{
+    color: rgb(99, 178, 189);
+}
