@@ -11,3 +11,4 @@
 - (If not) Run in terminal `npm start`
 - Navigate to https://localhost:3000
 - Check more about [Tailwind CSS](https://tailwindcss.com/?ref=creativetim)
+- Heroku deployed link https://iproject-app.herokuapp.com/
